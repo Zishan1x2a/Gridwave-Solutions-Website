@@ -1,0 +1,169 @@
+.ram{
+    background-color: black;
+    height: 50px;
+    width: auto;
+    display: flex;
+
+}
+
+.shyam{
+    color: white;
+    font-size: 25px;
+    font-weight:200;
+    font-style: italic;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.dhyam{
+    margin-left: 750px;
+    border-radius: 50%;
+    background-color: black;
+
+}
+.kam{
+    margin-left: 30px;
+    border-radius: 50%;
+    background-color: black;
+    
+}
+.girl{
+    width: auto;
+    height: 750px;
+    background-color: blue;
+    padding-top: 250px;
+    text-align: center;
+}
+.ab{
+    text-align: center;
+    margin-top: 50px;
+    font-style: italic;
+}
+.ankush{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.abs{
+    color: blue;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.asd{
+    background-color: transparent;
+}
+.asd:hover{
+    background-color:gray;
+    color:green;
+}
+.zzz{
+    text-align: center;
+    margin-top: 50px;
+    font-style: italic;
+}
+
+.hhh{
+    text-align: center;
+    margin-top: 50px;
+    font-style: italic;
+}
+.xyz{
+    width: auto;
+    height: 600px;
+}
+.nmp{
+    margin-left: 64px;
+    margin-top: 50px;
+    margin-right: 64px;
+}
+.aws{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.yyy{
+    text-align: center;
+    font-style: italic;
+    margin-top: 45px;
+}
+.ttt{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+}
+.mp{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin-left: 18px;
+    margin-top: 18px;
+}
+.bbb{
+    font-weight: lighter;
+    text-align: center;
+}
+.joo{
+    font-style: italic;
+    color: gray;
+}
+.bnm{
+    font-style: italic;
+    text-align: center;
+    margin-top: 45px;
+}
+.Afrin{
+    
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 87vh;
+}
+.main{
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgb(0,0,0,0.2);
+    padding: 20px;
+    width: 800px;
+    
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+    font-weight: bold;
+}
+input[type="text"],
+      input[type="email"],
+     select {
+          width: 100%;
+          margin-bottom: 15px;
+          padding: 10px;
+          box-sizing: border-box;
+          border: 1px solid #ddd;
+          border-radius: 5px;
+      }
+     button[type="Submit"] {
+        padding: 15px;
+        border-radius: 10px;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+        font-size: 16px;
+        background-color: #18d518;
+        color: white;
+      }
+      footer{
+        margin-top:0;
+        background-color: black;
+        width: auto;
+        height: 85px;
+        text-align: center;
+        color: white;
+      }
+      .yu{
+        padding-top: 25px;
+        font-weight: lighter;
+        font-style: italic;
+      }
